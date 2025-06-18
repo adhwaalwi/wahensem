@@ -120,3 +120,31 @@ ul{
 .box1 li a:hover{
     color: #b9b9b9;
 }
+.portfolio-section {
+  padding: 40px;
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.portfolio-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.portfolio-item {
+  border: 1px solid #ccc;
+  padding: 15px;
+  width: 200px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.portfolio-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
