@@ -27,7 +27,7 @@ This is a responsive personal portfolio website created using **HTML**, **CSS**,
 
 ## 📷 Preview
 
-<img src="https://i.ibb.co/SD8sBrNk/3d-modelling.png" alt="3D Modelling Full">
+<a href="https://ibb.co/YFKfrs0g"><img src="https://i.ibb.co/Pvb1SHDk/3d-modelling-1.png" alt="3d-modelling-1" border="0"></a>
  <a href="https://ibb.co/yFMt5GV6"><img src="https://i.ibb.co/GQ1ykBFW/3d-modelling-2.png" alt="3d-modelling-2" border="0"></a>
 
 ---
